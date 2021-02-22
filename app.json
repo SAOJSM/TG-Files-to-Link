@@ -23,7 +23,7 @@
   },
    "PUBLIC_URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": "https://tglinkgen2.herokuapp.com/"
+      "value": "https://linkgen3.herokuapp.com/"
   },
    "TG_START_MESG": {
       "description": "Set /start Message",
