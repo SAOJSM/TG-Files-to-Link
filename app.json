@@ -2,7 +2,6 @@
  "name": "tglinkgen3",
  "description": "tglinkgen3",
  "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
-  ],
  "repository": "https://github.com/SAOJSM/tglinkgen3",
  "env": {
    "TG_API_ID": {
