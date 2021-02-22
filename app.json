@@ -6,19 +6,19 @@
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/SAOJSM/tglinkgen2",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
-      "value": ""
+      "value": "3881905"
   },
    "TG_API_HASH": {
       "description": " Your Telegram API hash. Get this value from my.telegram.org!",
-      "value": ""
+      "value": "a9ee1669fa6826d6fc393fda32e2a785"
   },
    "TG_BOT_FATHER_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1643936276:AAFqHI0HCFVr8l3BI0r1-UWNIwTDuKPMH2s"
   },
    "HOST": {
       "description": "Leave the Same Value",
@@ -27,11 +27,11 @@
   },
    "PUBLIC_URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": ""
+      "value": "https://linkgen3.herokuapp.com/"
   },
    "TG_START_MESG": {
       "description": "Set /start Message",
-      "value": ""
+      "value": "Welcome Home"
   }
  }
 }
