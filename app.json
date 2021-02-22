@@ -6,7 +6,7 @@
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/SAOJSM/tglinkgen2",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
@@ -27,7 +27,7 @@
   },
    "PUBLIC_URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": "https://tglinkgen.herokuapp.com/"
+      "value": "https://tglinkgen2.herokuapp.com/"
   },
    "TG_START_MESG": {
       "description": "Set /start Message",
